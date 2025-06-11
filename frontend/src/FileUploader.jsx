@@ -22,7 +22,7 @@ const FileUploader = () => {
       setError("")
       setRoast("")
 
-      const res = await axios.post("http://localhost:5000/api/resume/upload", formData);
+      const res = await axios.post("https://grillmycv.onrender.com/api/resume/upload", formData);
       setRoast(res.data.roast);
     } catch (err) {
       console.error(err);
