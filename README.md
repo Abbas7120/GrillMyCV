@@ -9,6 +9,7 @@ An AI-powered web application that lets users upload their resume and receive a 
 ![image](https://github.com/user-attachments/assets/46d09a8d-7f11-4009-ae52-f3d824e3fec3)
 ![image](https://github.com/user-attachments/assets/721a3605-86b9-4ce0-9f81-fb9a128d0df8)
 ![image](https://github.com/user-attachments/assets/fbf8620a-3322-40c5-b688-5bc98bc746ca)
+![image](https://github.com/user-attachments/assets/728cbe1c-5b78-40e1-a6bf-06b2280bb2b7)
 ![image](https://github.com/user-attachments/assets/4d1bcfdf-48b7-4038-b2b4-a981ad5e7ebc)
 
 
